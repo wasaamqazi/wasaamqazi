@@ -3,26 +3,26 @@
 
 <p align="left"> <a href="https://twitter.com/WasaamQazi" target="blank"><img src="https://img.shields.io/twitter/follow/wasaamqazi?logo=twitter&style=for-the-badge" alt="wasaam-qazi" /></a> </p>
 <!--
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arslan-mumtaz/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arsal_me/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/akaarsal)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/arslanmumtaz/)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/923435306291)
-[<img src="https://img.shields.io/badge/gmail-%23D7503C.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:arslan.mumtaz04@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wa-qazi/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wasaam_qazi/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/WasaamQazi)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100005793859061)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/923425544106)
+[<img src="https://img.shields.io/badge/gmail-%23D7503C.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:wasaamqazi@gmail.com)
 -->
 - 🌱 I’m currently learning **React Native,Node.js & Express **
 
-- 👨‍💻 You can find my portfolio at [arslanmumtaz.com](arslanmumtaz.com)
+- 👨‍💻 You can find my portfolio at [wasaamqazi.com](wasaamqazi.com)
 
-- 📫 How to reach me **arslan.mumtaz04@gmail.com** 
+- 📫 How to reach me **wasaamqazi@gmail.com** 
 
 
 **Talking about Personal Stuffs:**
 
 - 🧑‍🎓 Graduate From IIUI.
-- 🤓 Currently exploring MERN Stack and learning Web3.0.
-- 🐈 Cat addict.
-- 📚 Love reading histories, politics, and conspiracy.
+- 🤓 Currently Managing Director of Octaloop Technologies
+- 🤓 Cricket addict.
+- 📚 Love watching crickte, movies, and series.
 - ⚡️ Fun-Fact: I didn't smoke or drunk.
 
 <h3 align="left">Connect with me:</h3>
