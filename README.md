@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Wasaam Qazi</h1>
 <h3 align="center">I am a Full Stack RPA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer. @ Octaloop Tech</h3>
 
-<p align="left"> <a href="https://twitter.com/WasaamQazi" target="blank"><img src="https://img.shields.io/twitter/follow/akaarsal?logo=twitter&style=for-the-badge" alt="wasaam-qazi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/WasaamQazi" target="blank"><img src="https://img.shields.io/twitter/follow/wasaamqazi?logo=twitter&style=for-the-badge" alt="wasaam-qazi" /></a> </p>
 <!--
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arslan-mumtaz/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arsal_me/)
