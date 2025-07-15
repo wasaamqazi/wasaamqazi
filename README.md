@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/wasaamqazi/wasaamqazi/blob/main/Screenshot_20250715-132233_LinkedIn.jpg" alt="logo" style="max-width: 80%; height: auto;">
-</div>
+  ![logo](https://github.com/wasaamqazi/wasaamqazi/blob/main/Screenshot%20from%202025-07-15%2013-37-18.png)
 
 <h1 align="center">Hey there 👋, I'm Wasaam Qazi</h1>
 <h3 align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and an AI Developer. @ Octaloop Tech</h3>
