@@ -1,4 +1,4 @@
-  ![logo](https://github.com/wasaamqazi/wasaamqazi/blob/main/Screenshot%20from%202025-07-15%2013-37-18.png)
+ ![logo](https://github.com/wasaamqazi/wasaamqazi/blob/main/Screenshot%20from%202025-07-15%2013-37-18.png)
 
 <h1 align="center">Hey there 👋, I'm Wasaam Qazi</h1>
 <h3 align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and an AI Developer. @ Octaloop Tech</h3>
